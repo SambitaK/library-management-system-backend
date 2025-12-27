@@ -1,5 +1,10 @@
 #  Library Management System
 
+Complete Library Automation System using Spring Boot and MySQL.
+
+## Overview
+
+This project is a web app built using Spring Boot and MySQL that automates library tasks like managing books, registering members, issuing/returning books, and calculating fines.
 
 ##  Features
 
