@@ -34,7 +34,7 @@
     - BCrypt password encryption
     - Secure session management
 
-### Business Rules
+### Rules & Conditions
 
 - Maximum 5 books per member
 - 14-day loan period
